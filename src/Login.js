@@ -61,7 +61,7 @@ function Login() {
           </button>
         </form>
         <p>
-          By signing-in you agree to Amazon's conditions of Use & Sale, ser our
+          By signing-in you agree to Amazon's conditions of Use & Sale, see our
           Privacy Notice, our Cookies Notice and our interest-Based Ads Notice.
         </p>
         <button onClick={register} className="login__registerButton">
